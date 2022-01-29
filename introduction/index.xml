@@ -12,8 +12,8 @@
       
       <guid>https://wiki.mate-desktop.org/introduction/installation/</guid>
       <description>This page describes how to install the MATE Desktop Environment.
-   Preinstalled  Linux BSD Illumos   Manual installation     Preinstalled    We recommend to use a distribution that already comes with the MATE Desktop pre-installed, such as (but not limited to):
-Linux     Fedora MATE-Compiz Spin Ubuntu MATE Linux Mint - MATE Debian: In the net-install installer choose the &amp;ldquo;Mate Desktop Environment&amp;rdquo; option.</description>
+   Preinstalled  Linux BSD Illumos   Manual installation      Preinstalled     We recommend to use a distribution that already comes with the MATE Desktop pre-installed, such as (but not limited to):
+Linux      Fedora MATE-Compiz Spin Ubuntu MATE Linux Mint - MATE Debian: In the net-install installer choose the &amp;ldquo;Mate Desktop Environment&amp;rdquo; option.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@ Linux     Fedora MATE-Compiz Spin Ubuntu MATE Linux Mint - MATE Debian: In the n
       
       <guid>https://wiki.mate-desktop.org/introduction/contributing/</guid>
       <description>This page describes how to contribute to the MATE Desktop Environment.
-   Welcome Contact  IRC       Welcome    Hi! We are the MATE Desktop Team and we are glad you found your way to this page. We always need new people who want to help. Help can be done in many several ways and everyone can help in one way or another.</description>
+   Welcome Contact  IRC        Welcome     Hi! We are the MATE Desktop Team and we are glad you found your way to this page. We always need new people who want to help. Help can be done in many several ways and everyone can help in one way or another.</description>
     </item>
     
   </channel>
