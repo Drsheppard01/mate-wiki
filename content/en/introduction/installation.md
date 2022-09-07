@@ -28,7 +28,7 @@ If you already have a Linux distribution installed and want to switch to the MAT
 
 ### Illumos
 
--[openIndiana](https://www.openindiana.org/download/)
+- [openIndiana](https://www.openindiana.org/download/)
 
 ## Manual installation
 
@@ -82,7 +82,13 @@ Install the MATE Desktop Environment with
 {{< tab "Arch/Manjaro" >}}
 Install the MATE Desktop Environment with
 
-- `sudo pacman -Sy mate-desktop-environment`
+- `sudo pacman -Sy mate mate-extra`
+{{< /tab >}}
+
+{{< tab "Solus" >}}
+Install the MATE Desktop Environment with
+
+- `sudo eopkg it -c desktop.mate`
 {{< /tab >}}
 
 {{< tab "Solus" >}}
